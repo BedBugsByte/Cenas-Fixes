@@ -11,7 +11,6 @@ namespace Quadrado
         static void Main(string[] args)
         {
             Console.WriteLine("Conta-me cenas que eu faço-te outras ok?, ok!");
-            
         }
     }
 }
