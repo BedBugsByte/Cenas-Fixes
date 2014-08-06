@@ -1,1 +1,18 @@
-lol
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Quadrado
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Conta-me cenas que eu faço-te outras ok?, ok!");
+            
+        }
+    }
+}
+
